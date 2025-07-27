@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Jx5/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ1amV4Y2hvYXpzM2FwdnV5dnB4c2l6YjZjMWV6Z2JzYXVoYmVqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="100"/>
 </div>
 
 ### Hi there, I'm DSK 👋
